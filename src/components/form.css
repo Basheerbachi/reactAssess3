@@ -1,0 +1,22 @@
+body {
+    background-image: linear-gradient(180deg,  rgb(144, 250, 167), rgb(174, 200, 255), rgba(253, 172, 43, 0.927));
+    background-repeat: no-repeat;
+    height: 100vh;
+}   
+form {
+    line-height: 3;
+}
+input {
+    border: 2px solid red;
+    border-radius: 10px;
+    height: 30px;
+}
+label {
+    font-weight: 500;
+}
+button {
+    margin-top: 4rem;
+    background-color: rgb(6, 103, 103);
+    padding: 0.5rem 3rem;
+    border-radius: 20px;
+}
